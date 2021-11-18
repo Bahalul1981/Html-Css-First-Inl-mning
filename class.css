@@ -10,7 +10,7 @@ body{
 header{
     height: 150px;
     background-color: rgb(56, 47, 33);
-    background-image: url("Sushi-på-tallrik-3-1160x585.jpeg");
+    background-image: url("Sushi-på-tallrik-3-1160x585.jpeg");
     background-size: 1000px;
     background-position: center;
     background-repeat: no-repeat;
@@ -56,7 +56,7 @@ main{
     width: 400px;
     color: rgb(0, 0, 0);
    word-wrap: break-word;
-   background-image: url("carbonara.jpeg");
+   background-image: url("pasta-carbonara.jpeg  ");
    background-position-x: center;
    background-size: 800px;
    opacity: 0.8;
@@ -72,7 +72,7 @@ main{
     color: rgb(255, 255, 255);
    
    word-wrap: break-word;
-   background-image: url("Sushi-på-tallrik-3-1160x585.jpeg");
+   background-image: url("Sushi-på-tallrik-3-1160x585.jpeg");
    opacity: 0.9;
    background-size: 950px;
    margin: 20px;
@@ -89,16 +89,16 @@ main{
 footer{
     margin-top: 40px;
     height: 400px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-shadow: black 3px px;
-    text-align: center;
     background-color: rgb(170, 140, 74);
-    background-image: url("burnt-chicken.png");
+    background-image: url("pasta-carbonara.jpeg");
     background-size:1200px 600px;
     background-position:center;
     background-repeat: no-repeat;
-    font-size: 3rem;
+    font-size: 1.5rem;
     border: 2px solid black;
+    padding-top:50px;
 
 }
 .sushi{
@@ -107,11 +107,7 @@ footer{
     color: rgb(26, 24, 24);
     
 }
-.bottom{
-    padding-top: 230px;
-   
- 
-}
+
 .biff-steak{
     font-family: 'Estonia', cursive;
     
@@ -119,8 +115,3 @@ footer{
 .my-carbonara{
     font-family: 'Lato', sans-serif;
 }
-
-
-
-
-

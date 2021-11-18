@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+  background-color: beige;
+  margin: 40px;
+ 
+}
+header{
+    height: 150px;
+    background-color: rgb(56, 47, 33);
+    background-image: url("Sushi-på-tallrik-3-1160x585.jpeg");
+    background-size: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    border: 2px solid yellow;
+   
+}
+.maintaitel{
+    padding: 45px;
+    text-shadow: white 5px 5px 5px ;
+    font-size: 3.5rem;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 2px solid black;
+    margin-top: 30px;
+    background-color: black;
+  
+   
+    
+}
+
+.hello1{
+    font-size: 1.5rem;
+    height: 500px;
+    width: 400px;
+    color: rgb(0, 0, 0);
+   word-wrap: break-word;
+   background-image: url("425ior.jpeg");
+   background-size: 750px;
+   background-position:center ;
+   opacity: 0.9;
+   margin: 20px;
+   text-shadow: rgb(255, 255, 255) 2px  2px ;
+   border: 2px solid burlywood;
+   
+}
+.hello2{
+    font-size: 1.5rem;
+    height: 500px;
+    width: 400px;
+    color: rgb(0, 0, 0);
+   word-wrap: break-word;
+   background-image: url("carbonara.jpeg");
+   background-position-x: center;
+   background-size: 800px;
+   opacity: 0.8;
+   margin: 20px;
+   border: 2px solid burlywood;
+   text-shadow: rgb(255, 255, 255) 2px  2px ;
+
+}
+.hello3{
+    font-size: 1.5rem;
+    height: 500px;
+    width: 400px;
+    color: rgb(255, 255, 255);
+   
+   word-wrap: break-word;
+   background-image: url("Sushi-på-tallrik-3-1160x585.jpeg");
+   opacity: 0.9;
+   background-size: 950px;
+   margin: 20px;
+   border: 2px solid burlywood;
+  
+
+}
+.ul{
+    margin-left: 30px;
+}
+.steak{
+    margin-left: 30px;
+}
+footer{
+    margin-top: 40px;
+    height: 400px;
+    color: rgb(255, 255, 255);
+    text-shadow: black 3px px;
+    text-align: center;
+    background-color: rgb(170, 140, 74);
+    background-image: url("burnt-chicken.png");
+    background-size:1200px 600px;
+    background-position:center;
+    background-repeat: no-repeat;
+    font-size: 3rem;
+    border: 2px solid black;
+
+}
+.sushi{
+    font-family: 'Oswald', sans-serif;
+    background-color:white;
+    color: rgb(26, 24, 24);
+    
+}
+.bottom{
+    padding-top: 230px;
+   
+ 
+}
+.biff-steak{
+    font-family: 'Estonia', cursive;
+    
+}
+.my-carbonara{
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
